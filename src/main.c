@@ -3,8 +3,8 @@
 #include <string.h>
 #include <time.h>
 
-#include "./random.c"
-#include "./clear.c"
+#include "random.h"
+#include "clear.h"
 
 #define MIN_NUMBER 1
 #define MAX_NUMBER 1000
