@@ -7,3 +7,5 @@ you can Build it for yourself [Tutorial](https://github.com/SolindekDev/guessing
 # Screenshot
 
 ![](https://raw.githubusercontent.com/SolindekDev/guessing-game/main/resources/screenshot1.png)
+
+##### This game is maded for fun and for learning soo it's weak
